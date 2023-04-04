@@ -1,4 +1,4 @@
-# Feature_Scaling_In_Regression
+# Feature Scaling In Regression
 
 This is a great resource from Coursera (with modifications) where; 
 
